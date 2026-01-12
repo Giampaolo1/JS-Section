@@ -18,4 +18,4 @@
 1. [SquaresGridAjax](https://giampaolo1.github.io/js-jq-ajax-grigliaquad/)
 2. [OddEvenAjax](https://giampaolo1.github.io/js-ajax-oddeven/)
 3. [APImusic](https://giampaolo1.github.io/js-jq-ajax-api-musica/)
-4. [Calendar](https://giampaolo1.github.io/ajax-ex-calendar/) See [Task Assigned](https://docs.google.com/document/d/1OcSGrT3Snh_DXrDZ82DVY59eqvzNb_Nh_Db5z3qq2_k/edit)
+4. [Calendar](https://giampaolo1.github.io/ajax-ex-calendar/) See [Task Assigned](https://drive.google.com/file/d/1XDoWBqlbI_B6ohi5c_suwTdcsAR2yn2P/view?usp=drive_link)
